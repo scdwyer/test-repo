@@ -1,4 +1,4 @@
 test-repo
 =========
 
-Repository to test git and github features
+Repository to test git and GitHub features.
